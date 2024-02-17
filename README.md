@@ -1,0 +1,1 @@
+This movie recommendation system employs collaborative filtering, a technique that analyzes user-item interactions to predict user preferences. It utilizes cosine similarity, a measure of similarity between two vectors, to compute the similarity between users or items based on their past interactions.
